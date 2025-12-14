@@ -20,7 +20,7 @@ Now, run the code by clicking on the debug tab --> Start without Debugging. You 
 
 <img width="572" height="597" alt="image" src="https://github.com/user-attachments/assets/85046f09-9ebc-49cf-9ddf-b441fadf767a" />
 
-Click on the "Browse..." button and input a path to a local folder on your computer that contains images, and images only (it could take a while for the application to load after you input the path to the folder).
+Click on the "Browse..." button and enter a path to a local folder on your computer that contains images, and images only (it could take a while for the application to load after you enter the path to the folder).
 
 For example, I entered a local folder called "phone_pics" that contains many images, and images only:
 
@@ -49,6 +49,13 @@ You can also enter a different search term, and then click on "Search" to find t
 <img width="577" height="595" alt="image" src="https://github.com/user-attachments/assets/89441cee-1a50-41e8-9bd6-9e2f4fe08047" />
 
 And like before, you can click "Next" to see the next best matching local image from your folder.
+
+More examples of searches in the app:
+
+<img width="572" height="597" alt="image" src="https://github.com/user-attachments/assets/4518d1dc-f92d-4981-a382-522d3a6e698e" />
+
+<img width="459" height="480" alt="image" src="https://github.com/user-attachments/assets/9c8d318d-be9e-4da7-815c-3147a1f9c87f" />
+
 
 Hope you enjoy using the App! :)
 
