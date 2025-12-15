@@ -1,5 +1,5 @@
 This is an image recognition project that uses the Contrastive Language-Image Pre-training (CLIP) technique for a machine learning model. The model also uses online pictures fetched from the website
-https://unsplash.com as a way of comparing the desired image by the user with online images from the web.
+https://unsplash.com as a way of comparing the desired image of the user with online images from the web.
 
 Important: Before running the attached code, please do the following:
 1. Open the Visual Studio IDE (if you don't have it then please download it).
@@ -57,7 +57,7 @@ More examples of searches in the app:
 <img width="459" height="480" alt="image" src="https://github.com/user-attachments/assets/9c8d318d-be9e-4da7-815c-3147a1f9c87f" />
 
 
-Hope you enjoy using the App! :)
+Hope you enjoy using the app! :)
 
 
 
